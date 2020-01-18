@@ -1,0 +1,3 @@
+grant codeBase "your project path here"{
+    permission java.security.AllPermission;
+};
